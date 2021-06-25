@@ -1,0 +1,21 @@
+<package>
+	<id>com.jadezcrack882.ytmpr</id>
+	<name>YTMusic Pro</name>
+	<version>4.33.3</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>15.0</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+	    <package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Get free Youtube Music premium feature for free.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
